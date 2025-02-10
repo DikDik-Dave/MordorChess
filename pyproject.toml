@@ -18,8 +18,6 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "tbd"
-Documentation = "tbd"
 Repository = "https://github.com/DikDik-Dave/MordorChess"
 Issues = "https://github.com/DikDik-Dave/MordorChess/issues"
 
