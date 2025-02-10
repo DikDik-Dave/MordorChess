@@ -1,1 +1,1 @@
-from super_import_functions import play_chess
+from super_important_functions import play_chess
